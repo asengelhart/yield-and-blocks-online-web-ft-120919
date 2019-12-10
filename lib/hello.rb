@@ -7,3 +7,4 @@ end
 
 # call your method here!
 
+puts hello_t([1,2])
